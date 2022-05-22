@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+body{
+    background-color: black;
+}
+h1{
+    font-weight: bold;
+    color: white;
+    border: 5px;
+    border-radius: 10px;
+    padding-left: 20px;
+    text-align: center;
+}
+p{
+
+    font-weight: bold;
+    color: white;
+}
+
+div{
+    text-align: center;
+}
+video{
+
+    width: 400px;
+}
